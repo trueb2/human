@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle human",
+        "command": "human:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "human",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "human:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
