@@ -1,7 +1,7 @@
 {
   "name": "human",
   "main": "./lib/human.js",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Insert text like a human might into the text editor in atom",
   "keywords": [],
   "activationCommands": {
